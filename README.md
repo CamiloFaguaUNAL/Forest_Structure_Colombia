@@ -5,7 +5,8 @@ Folder GEE includes the JavaScript-codes used to process the Sentinel-1 and ALOS
 
 ![MAP_SEQUENCE](https://github.com/user-attachments/assets/d4cc9ad4-6ce5-42d3-b7b6-cd4e797915c2)
 
-Maps of forest vertical structure can are also accessible in Google Earth Engine: 
+Maps of forest vertical structure can are also accessible in Google Earth Engine 
+
 
 projects/ee-jantzenator/assets/colombia_forest_structure/rh50/RH_50_COLOMBIA_FOREST_1_1
 projects/ee-jantzenator/assets/colombia_forest_structure/rh50/RH_50_COLOMBIA_FOREST_1_2
