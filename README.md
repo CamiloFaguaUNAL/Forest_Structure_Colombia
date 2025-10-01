@@ -14,6 +14,7 @@ Tile shapefile
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/COLOMBIA_FOREST_TILES
  
 CH (canopy height)
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/ch/CH_COLOMBIA_FOREST_1
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/ch/CH_COLOMBIA_FOREST_2
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/ch/CH_COLOMBIA_FOREST_3
@@ -27,6 +28,7 @@ https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colomb
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/ch/CH_COLOMBIA_FOREST_11
 
 COVER (canopy cover)
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/cover/COVER_COLOMBIA_FOREST_1
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/cover/COVER_COLOMBIA_FOREST_2
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/cover/COVER_COLOMBIA_FOREST_3
@@ -40,6 +42,7 @@ https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colomb
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/cover/COVER_COLOMBIA_FOREST_11
 
 FHD_PAI (foliage height diversity calculated from plant area index)
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_1
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_2
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_3
@@ -53,6 +56,7 @@ https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colomb
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_11
 
 PAI (plant area index)
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/pai/PAI_COLOMBIA_FOREST_1
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/pai/PAI_COLOMBIA_FOREST_2
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/pai/PAI_COLOMBIA_FOREST_3
@@ -66,6 +70,7 @@ https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colomb
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/pai/PAI_COLOMBIA_FOREST_11
 
 RH50 (height at which 50% of lidar energy is returned)
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/rh50/RH50_COLOMBIA_FOREST_1
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/rh50/RH50_COLOMBIA_FOREST_2
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/rh50/RH50_COLOMBIA_FOREST_3
