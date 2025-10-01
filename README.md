@@ -52,7 +52,9 @@ https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colomb
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_7
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_8
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_9
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_10
+
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/fhd_pai/FHD_PAI_COLOMBIA_FOREST_11
 
 PAI (plant area index)
