@@ -10,6 +10,8 @@ We also included in the R folder a subfolder called gedi_simulator with the scri
 
 ![MAP_SEQUENCE](https://github.com/user-attachments/assets/d4cc9ad4-6ce5-42d3-b7b6-cd4e797915c2)
 
+These maps are also accessible in Google Earth Engine in the links below, which are organized corresponding to a tile shapefile, where each map is split into eleven tiles, with tile numbering starting at one and running from left to right, top to bottom, starting at the top left. The shapefile consists of four rows and three columns but note that the top row has only two tiles as the upper right tile does not contain any forest pixels in Colombia.
+
 Tile shapefile
 https://code.earthengine.google.com/?asset=projects/ee-jantzenator/assets/colombia_forest_structure/COLOMBIA_FOREST_TILES
  
